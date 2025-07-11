@@ -15,8 +15,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     bootctrl.kona
 
-PRODUCT_STATIC_BOOT_CONTROL_HAL := \
-    bootctrl.kona \
+# Boot control HAL - using shared library instead of static
+PRODUCT_PACKAGES += \
     libgptutils \
     libz \
     libcutils
