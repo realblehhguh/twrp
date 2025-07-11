@@ -108,3 +108,6 @@ TARGET_USES_LOGD := true
 
 # Device Path
 DEVICE_PATH := device/moorechip/kona
+
+#display
+TW_ROTATION := 180
