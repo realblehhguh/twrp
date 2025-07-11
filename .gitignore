@@ -1,0 +1,10 @@
+# Prebuilt kernel
+prebuilt/Image
+
+# Build artifacts
+*.o
+*.so
+*.a
+
+# Temporary files
+tmp_*

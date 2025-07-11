@@ -1,0 +1,2 @@
+add_lunch_combo twrp_kona-userdebug
+add_lunch_combo twrp_kona-eng
